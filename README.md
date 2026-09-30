@@ -1,1 +1,1 @@
-# Jit_circle
+# Jit Python practise
